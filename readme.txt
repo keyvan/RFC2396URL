@@ -8,3 +8,7 @@ Contact Info: http://keyvan.tel
 This is a .NET library for dealing with RFC2396 URLs:
 
 http://www.ietf.org/rfc/rfc2396.txt
+
+More details can be found on my blog:
+
+http://keyvan.io/rfc2396-url-1-0-released
