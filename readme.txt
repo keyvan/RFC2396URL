@@ -12,7 +12,9 @@ http://www.ietf.org/rfc/rfc2396.txt
 More details can be found on my blog:
 
 http://keyvan.io/rfc2396-url-1-0-released
+http://keyvan.io/rfc2396-url-1-0-beta-1-released
 
 NuGet Package:
 
 http://nuget.org/packages/RFC2396URL
+
